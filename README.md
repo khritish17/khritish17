@@ -1,12 +1,1 @@
-# Khritish Kumar Behera-@khritish17
-
-I got my Int. Masters degree in the field of [Electrical Engineering and Computer Science](https://eecs.iiserb.ac.in/) from [IISER Bhopal](https://www.iiserb.ac.in/). 
-
-## Find me around the web
-> Mail: khritish.official@gmail.com
-> 
-> LinkedIn handle: [@khritish17](https://www.linkedin.com/in/khritish17/)
-> 
-> Twitter handle: [@KKhritish](https://twitter.com/KKhritish)
-> 
-> Instagram handle: [@khritishk17](https://www.instagram.com/khritishk17/)
+<img src="https://static.vecteezy.com/system/resources/previews/025/894/618/non_2x/cute-word-hello-cartoon-style-illustration-vector.jpg" width="200" height="200">
