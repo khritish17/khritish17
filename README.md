@@ -1,1 +1,1 @@
-<img src="profile.png" width="800" height="548" align="center">
+<img src="profile.png" width="900" height="617" align="center">
