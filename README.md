@@ -10,7 +10,7 @@ I specialize in the following areas, from systems programming to user interface 
 | **C** | ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black) |  **NI LabVIEW** | ![NI LabVIEW](https://img.shields.io/badge/LabVIEW-FEC33F?style=for-the-badge&logo=ni&logoColor=black) |
 | **Rust** | ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white) | **Godot** | ![Godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white) |
 | **MATLAB** | ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=matlab&logoColor=white) | **Blender** | ![Blender](https://img.shields.io/badge/Blender-E87D00?style=for-the-badge&logo=blender&logoColor=white) |
-| **LaTeX** | ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white) |
+| **LaTeX** | ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white) | **NumPy** | ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white) |
 |**Typst** | ![Typst](https://img.shields.io/badge/Typst-22B3C6?style=for-the-badge&logo=typst&logoColor=white) |
 
 ## Coding Profile
