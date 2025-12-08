@@ -1,10 +1,6 @@
-  <tr align="center">
-    <td>
-      <a href="https://leetcode.com/u/khritish17/" target="_blank"><img  align=top flex-grow=1 src="https://leetcard.jacoblin.cool/khritish17?theme=lite&font=Nunito&ext=contest" /></a> 
-    </td>
-  </tr>
 
-### 💻 Programming Languages and ✨ Frameworks & Tools 
+
+## 💻 Programming Languages and ✨ Frameworks & Tools 
 I specialize in the following areas, from systems programming to user interface development:
 
 | 💻 Programming Languages | Badge | ✨ Frameworks & Tools | Badge |
@@ -15,6 +11,15 @@ I specialize in the following areas, from systems programming to user interface 
 | **Rust** | ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white) | **Godot** | ![Godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white) |
 | **MATLAB** | ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=matlab&logoColor=white) | **Blender** | ![Blender](https://img.shields.io/badge/Blender-E87D00?style=for-the-badge&logo=blender&logoColor=white) |
 | **LaTeX** | ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white) |
+|**Typst** | ![Typst](https://img.shields.io/badge/Typst-22B3C6?style=for-the-badge&logo=typst&logoColor=white) |
+
+## Coding Profile
+  <tr align="center">
+    <td>
+      <a href="https://leetcode.com/u/khritish17/" target="_blank"><img  align=top flex-grow=1 src="https://leetcard.jacoblin.cool/khritish17?theme=lite&font=Nunito&ext=contest" /></a> 
+    </td>
+  </tr>
+
 ## 🤝 Let's Connect
 
 * **LinkedIn:** [Your LinkedIn Profile Link]
