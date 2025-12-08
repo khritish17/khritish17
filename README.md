@@ -22,9 +22,8 @@ I specialize in the following areas, from systems programming to user interface 
 
 ## 🤝 Let's Connect
 
-* **LinkedIn:** [Your LinkedIn Profile Link]
-* **Portfolio:** [Your Portfolio Website Link]
-* **Email:** your.email@example.com
+* **LinkedIn:** [in/khritish17](https://www.linkedin.com/in/khritish17/)
+* **Email:** khritish.official@gmail.com
 
 ⭐️ Feel free to check out my repositories and give a star to anything you find interesting!
 
