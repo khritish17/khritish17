@@ -20,6 +20,17 @@ I specialize in the following areas, from systems programming to user interface 
     </td>
   </tr>
 
+## Currently Working / Completed Porjects
+| Date| Project Name | Description | Github Repo | Tech Stack | Demo|
+| :--- | :--- | :--- | :--- | :--- | :---|
+|28 Nov 2025 - Present | **QuillCrypt** |Description|https://github.com/khritish17/QuillCrypt.git|![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white) ![Slint](https://img.shields.io/badge/Slint-23B0F7?style=for-the-badge&logo=slint&logoColor=white) ![Typst](https://img.shields.io/badge/Typst-22B3C6?style=for-the-badge&logo=typst&logoColor=white)| Demo|
+| 19 Jun 2025| **Procedural Terrain Generator** | Description | https://github.com/khritish17/Procedural-3d-terrain-generator.git | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Blender](https://img.shields.io/badge/Blender-E87D00?style=for-the-badge&logo=blender&logoColor=white) | Demo|
+| 16 Aug 2024 - 09 Sept 2024| **Pastport 2.0** | Description | https://github.com/khritish17/Pastport-2.0.git | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | Demo|
+| 01 May 2024 - 05 Jun 2024| **Inteljence** | Description | https://github.com/khritish17/Inteljence.git | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white) | Demo|
+| 20 Dec 2023 - 17 Jan 2024 | **Code Mosaic**| Description | https://github.com/khritish17/Code-Mosaic.git | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Pillow](https://img.shields.io/badge/Pillow-40A940?style=for-the-badge&logo=python&logoColor=white) | Demo|
+| 05 Oct 2023 - 20 Dec 2023| **Pastport** | Description | https://github.com/khritish17/Pastport.git | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | Demo|
+| 21 Nov 2023 - 03 Dec 2023| **KeyWarden** | Description | https://github.com/khritish17/KeyWarden.git | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)| Demo|
+
 ## 🤝 Let's Connect
 
 * **LinkedIn:** [in/khritish17](https://www.linkedin.com/in/khritish17/)
